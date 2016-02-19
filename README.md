@@ -5,6 +5,8 @@ the spring config portion seperatly for now.
 SpringBoot provides a means of having a way to centralized config.  The default mode is to have
 the configs backed by git.  You can specify branches, and other things
 
+This code was evolved from the spring blog tutorial on the spring config server.
+
 ## Some URLS that are interesting:
 
 1. https://github.com/spring-cloud-samples/configserver
