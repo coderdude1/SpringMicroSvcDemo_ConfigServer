@@ -9,7 +9,8 @@ This code was evolved from the spring blog tutorial on the spring config server.
 
 ## Some URLS that are interesting:
 
-1. https://github.com/spring-cloud-samples/configserver
+1. 1.  [Ngnix article](https://www.nginx.com/blog/introduction-to-microservices/)
+2. https://github.com/spring-cloud-samples/configserver
 2. http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html
 3. https://spring.io/blog/2015/01/13/configuring-it-all-out-or-12-factor-app-style-configuration-with-spring
 
