@@ -13,7 +13,7 @@ spring:
     config:
       server:
         git:
-          #uri: https://github.com/spring-cloud-samples/config-repo
-          uri: file:///${user.home}/Git/SpringConfigServerConfigs/SimpleExperiment
-          #uri: https://github.com/spring-cloud-samples/config-repo
+          #uri: https://github.com/drbugsmn/SpringMicroSvcDemo_ConfigRepo
+          uri: file:///${user.home}/Git/SpringConfigServerConfigs/SimpleExperiment #local git repo, note on windows 3 /// not 2
+          #uri: https://github.com/spring-cloud-samples/config-repo #Original source
           #basedir: target/config
